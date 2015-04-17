@@ -1,0 +1,57 @@
+archery
+badminton
+volleyball
+tennis
+basketball
+baseball
+softball
+cricket
+kickball
+dodgeball
+skateboarding
+surfing
+snowboarding
+wakeboarding
+quidditch
+rock climbing
+ice climbing
+bicycling
+motocross
+wrestling
+mixed martial arts
+boxing
+fencing
+paintballing
+billiards
+horse racing
+cross country running
+running
+fishing
+disc golf
+ultimate frisby
+footbll
+soccer
+rugby
+golf
+gymnastics
+hunting
+hockey
+kite surfing
+noodling
+ping pong
+racquetball
+sailing
+skiing
+bobsleigh
+curling
+lacrosse
+polo
+water polo
+parkour
+canoeing
+kayaking
+rafting
+rowing
+swimming
+diving
+weightlifting

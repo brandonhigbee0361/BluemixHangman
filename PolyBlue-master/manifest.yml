@@ -1,0 +1,6 @@
+---
+applications:
+- name: PolyBlue
+  buildpack: python_buildpack
+  instances: 1
+  memory: 128M
